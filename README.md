@@ -1,6 +1,6 @@
 # Honk the Planet
 
-![honk](honk.gif)
+![](honk.gif)
 
 <!--
 **cpanato/cpanato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
