@@ -1,5 +1,3 @@
-# Honk the Planet
-
 ![](honk.gif)
 
 <!--
