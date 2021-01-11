@@ -6,6 +6,14 @@
     <img src="https://github.com/cpanato/cpanato/blob/master/honk.gif">
     <br>
 </div>
+<br>
+<br>
+<a href="https://feisky.xyz/about">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cpanato&show_icons=true" />
+</a>
+<a href="https://feisky.xyz/about">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpanato&hide=html,css" />
+</a>
 
 <!--
 **cpanato/cpanato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
