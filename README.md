@@ -3,7 +3,7 @@
 <div align="center">
     <br>
     <br>
-    <img src="https://github.com/cpanato/cpanato/blob/master/honk.gif">
+    <img src="https://raw.githubusercontent.com/cpanato/cpanato/main/honk.gif">
     <br>
 </div>
 <br>
