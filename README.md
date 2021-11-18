@@ -12,7 +12,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cpanato&show_icons=true&theme=dracula" />
 </a>
 <a href="https://cpanato.dev">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpanato&hide=html,css&langs_count=10" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpanato&hide=html,css&langs_count=10&theme=dracula" />
 </a>
 
 <!--
