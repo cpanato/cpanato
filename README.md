@@ -8,11 +8,11 @@
 </div>
 <br>
 <br>
-<a href="https://feisky.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cpanato&show_icons=true" />
+<a href="https://cpanato.dev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cpanato&show_icons=true&theme=dracula" />
 </a>
-<a href="https://feisky.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpanato&hide=html,css" />
+<a href="https://cpanato.dev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpanato&hide=html,css&langs_count=10" />
 </a>
 
 <!--
