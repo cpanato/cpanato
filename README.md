@@ -1,5 +1,5 @@
 # Honk the Planet
-https://hachyderm.io/@cpanato
+
 <div align="center">
     <br>
     <br>
